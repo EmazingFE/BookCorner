@@ -1,2 +1,1 @@
 # BookCorner
-Emazing's BookCorner
