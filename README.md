@@ -1,4 +1,5 @@
 # BookCorner
+
 书名 | owner | 状态 |借阅数
 ---|--- | --- | --- | 
 [《SEO 实战密码》](http://product.dangdang.com/23738363.html)| 晓倩 | 可借阅 | 0
@@ -37,11 +38,26 @@ Emazing 的每一位小伙伴都是图书角的受益者，所以以自愿为原
 ### 共享图书
 如果你有想要和大家分享的图书
 
-- 先 fork 一下仓库
-- 将你想要共享的图书加入到 README 中
-- 提一个 PR
+1. 修改 README
+![1](//img-blog.csdn.net/2018031821530546?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N1bnNoaW5lOTQwMzI2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
-找@元元登记一下，最多借阅两本，借阅周期为两周，逾期需要续借～
+![2](//img-blog.csdn.net/20180318215315237?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N1bnNoaW5lOTQwMzI2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+![3](//img-blog.csdn.net/20180318215327240?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N1bnNoaW5lOTQwMzI2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+2. 提交修改
+![4](//img-blog.csdn.net/20180318215351462?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N1bnNoaW5lOTQwMzI2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+3. 新建 PR
+![5](//img-blog.csdn.net/20180318215406226?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N1bnNoaW5lOTQwMzI2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+![6](//img-blog.csdn.net/20180318215420857?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N1bnNoaW5lOTQwMzI2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+![7](//img-blog.csdn.net/20180318215433977?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N1bnNoaW5lOTQwMzI2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+4. 新建一个 issues，写出书名和简介
+![8](//img-blog.csdn.net/20180318221418869?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3N1bnNoaW5lOTQwMzI2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
 
 ## 读后产出
 
